@@ -1,5 +1,6 @@
 package basic_Programming;
 import java.util.Scanner;
+
 public class BottleDeposit
 {
 public static void main(String[] arguments)
