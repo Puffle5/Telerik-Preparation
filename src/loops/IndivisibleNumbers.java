@@ -3,7 +3,8 @@ import java.util.Scanner;
 
 public class IndivisibleNumbers
 {
-public static void main(String[] arguments) {
+public static void main(String[] arguments)
+{
 Scanner scanner = new Scanner(System.in);
 int number = Integer.parseInt(scanner.nextLine());
 if (number >= 1)
