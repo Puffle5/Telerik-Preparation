@@ -11,7 +11,8 @@ double sum = 0, average = 0;
 for (int i = 1; i <= count; i++)
 {
 double number = Double.parseDouble(scanner.nextLine());
-sum+=number; average = sum/count;
+sum+=number;
 }
+average = sum/count;
 System.out.printf("%.2f", average);
 }}
